@@ -1,4 +1,4 @@
-# Covid stats
+# Authentication
 
 > #### This is a simple web application that is all about authentication where you can login and logout.
 
